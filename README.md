@@ -30,15 +30,15 @@ Contains the click and open information for each user corresponding to given cam
 
 Contains the user and campaigns for which is_click needs to be predicted (Jan 18 - Mar 18)
 
-* EVALUATION METRIC
+### EVALUATION METRIC
 
 The evaluation metric for this competition is AUC-ROC score.
 
-* PUBLIC AND PRIVATE SPLIT
+### PUBLIC AND PRIVATE SPLIT
 
 Note that the test data is further randomly divided into Public (30%) and Private (70%) data. Your initial responses will be checked and scored on the Public data.
 
 The final rankings would be based on your private score which will be published once the competition is over.
 
-* I have been ranked 147 among 3594 contestents
+**I have been ranked 147 among 3594 contestants with EXtraTreeClassifier Model**
 
